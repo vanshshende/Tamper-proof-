@@ -91,5 +91,5 @@ A destructive malware campaign hit Middle-East energy and infrastructure network
         1.Vansh Shende  (Team Leader )
         2.Tanush Bobade
         3.Yash Awari
-        4.Shyryanshu Shendre
+        4.Shreyanshu Shendre
         5.Pranay Chikankar
