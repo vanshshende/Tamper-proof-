@@ -10,7 +10,25 @@
     5.API Communication Layer – Enables secure data exchange between IoT devices, gateway, and blockchain network.
 
 
+## Process ﬂow diagram or Use-case diagram
 
+                            Sensor Collects Data
+                                    ↓
+                            Server Receives Data
+                                    ↓
+                        Store as Block in Blockchain
+                        (Hash + Previous Hash Linked)
+                                    ↓
+                            Run Verification
+                                    ↓
+                            Tampering Detected ?
+                            ↓                ↓
+                            YES              NO
+                            ↓                ↓
+                    Alert + Timestamp     Data Valid
+                    Mark Block Corrupt    Continue System
+
+                    
 
 ## Brief :
 
@@ -38,25 +56,6 @@
 5. Automatic Alert System – Sends notification when suspicious activity is detected.
 6. Secure Firmware Updates – Only verified and trusted updates are accepted.
 7. Scalable Architecture – Can be deployed across small networks to large IoT ecosystems.
-
-
-## Process ﬂow diagram or Use-case diagram
-
-                            Sensor Collects Data
-                                    ↓
-                            Server Receives Data
-                                    ↓
-                        Store as Block in Blockchain
-                        (Hash + Previous Hash Linked)
-                                    ↓
-                            Run Verification
-                                    ↓
-                            Tampering Detected ?
-                            ↓                ↓
-                            YES              NO
-                            ↓                ↓
-                    Alert + Timestamp     Data Valid
-                    Mark Block Corrupt    Continue System
 
 
 ## Use Case
