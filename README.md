@@ -1,7 +1,7 @@
 <---  IoT systems are vulnerable to hacker attacks that alter data, requiring a blockchain‑based solution to ensure integrity and detect tampering instantly. --- >
 
 
-Technologies used are : 
+## Technologies used are : 
 
     1.Python – Backend logic for verification, hash generation, and secure communication between IoT devices and blockchain.
     2.Blockchain Database – Stores immutable hashes of firmware and sensor data for tamper-proof validation.
@@ -12,7 +12,7 @@ Technologies used are :
 
 
 
-Brief :
+## Brief :
 
 1.IoT systems are often targeted by hackers who alter or inject malicious data.
 2.Traditional databases cannot guarantee tamper-proof security.
@@ -22,14 +22,14 @@ Brief :
 6.This ensures data integrity, trust, and real-time security in IoT ecosystems .
 
 
-USP of the proposed solution :
+## USP of the proposed solution :
 
 1.Immutable security: Blockchain ensures data integrity. Instant alerts: Real-time detection of tampering.
 2.Scalable design: Works across diverse IoT ecosystems.
 3.Prevention-first approach: Stops botnet-style attacks at the root.
 
 
-features offered by the solution
+##features offered by the solution
 
 1.Blockchain-Based Security – Stores firmware/data hashes on an immutable ledger.
 2. Decentralized Verification – No single point of failure or central authority.
@@ -40,7 +40,7 @@ features offered by the solution
 7. Scalable Architecture – Can be deployed across small networks to large IoT ecosystems.
 
 
-Process ﬂow diagram or Use-case diagram
+## Process ﬂow diagram or Use-case diagram
 
                             Sensor Collects Data
                                     ↓
@@ -58,13 +58,26 @@ Process ﬂow diagram or Use-case diagram
                     Alert + Timestamp     Data Valid
                     Mark Block Corrupt    Continue System
 
-Research & References
 
-Real Cyberattack Examples Involving Industrial/Control Systems
+## Use Case
 
-1. Stuxnet Industrial Cyber‑Attack
+- Smart factories
+- Healthcare IoT
+- Smart homes
+- Industrial control systems
+- Critical infrastructure
 
+## Research & References
+
+## 🚨 Real-World Attacks That Inspired This Project
+
+1. **Stuxnet Industrial Cyber‑Attack**
     A highly sophisticated worm targeting industrial control systems (SCADA/PLC) used in Iranian nuclear facilities. It altered the sensor/PLC control logic and hid the real physical state from operators so the machines behaved dangerously while reporting normal values
+
+**2016 – Shamoon (Shamoon Variant) Attacks**
+A destructive malware campaign hit Middle-East energy and infrastructure networks, wiping thousands of systems and disrupting operations. It showed how critical infrastructure can be crippled without strong integrity and monitoring mechanisms.
+
+
 
 
 
