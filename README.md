@@ -12,6 +12,19 @@
     5.API Communication Layer – Enables secure data exchange between IoT devices, gateway, and blockchain network.
 
 
+## Setup Step:
+
+Tamper-proof/
+│
+├── __pycache__/
+├── frontend/
+├── app.py
+├── blockchain.py
+├── git
+├── logs.json
+├── README.md
+
+
 ## Process ﬂow diagram or Use-case diagram
 
                             Sensor Collects Data
@@ -49,7 +62,7 @@
 3.Prevention-first approach: Stops botnet-style attacks at the root.
 
 
-##features offered by the solution
+## features offered by the solution :
 
 1.Blockchain-Based Security – Stores firmware/data hashes on an immutable ledger.
 2. Decentralized Verification – No single point of failure or central authority.
@@ -59,14 +72,6 @@
 6. Secure Firmware Updates – Only verified and trusted updates are accepted.
 7. Scalable Architecture – Can be deployed across small networks to large IoT ecosystems.
 
-
-## Use Case
-
-- Smart factories
-- Healthcare IoT
-- Smart homes
-- Industrial control systems
-- Critical infrastructure
 
 ## Research & References
 
@@ -80,5 +85,11 @@ A destructive malware campaign hit Middle-East energy and infrastructure network
 
 
 
+## TEAM name:   CHAIN CODER
 
-
+# Team Member:
+        1.Vansh Shende  (Team Leader )
+        2.Tanush Bobade
+        3.Yash Awari
+        4.Shyryanshu Shendre
+        5.Pranay Chikankar
