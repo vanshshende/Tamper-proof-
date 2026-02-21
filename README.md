@@ -80,7 +80,7 @@ Tamper-proof/
 1. **Stuxnet Industrial Cyber‑Attack**
     A highly sophisticated worm targeting industrial control systems (SCADA/PLC) used in Iranian nuclear facilities. It altered the sensor/PLC control logic and hid the real physical state from operators so the machines behaved dangerously while reporting normal values
 
-**2016 – Shamoon (Shamoon Variant) Attacks**
+2. **2016 – Shamoon (Shamoon Variant) Attacks**
 A destructive malware campaign hit Middle-East energy and infrastructure networks, wiping thousands of systems and disrupting operations. It showed how critical infrastructure can be crippled without strong integrity and monitoring mechanisms.
 
 
