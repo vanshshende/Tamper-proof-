@@ -17,11 +17,11 @@
 
 ## Output :
 
-![output1](output/outpput.jpeg)
+![output1](output/output1.jpeg)
 
-![output2](output/img.jpeg)
+![output2](output/output2.jpeg)
 
-![output3](output/outpput3.jpeg)
+![output3](output/output3.jpeg)
 
 
 ## Technologies used are : 
