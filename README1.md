@@ -42,6 +42,8 @@ Prevents unauthorized firmware updates
 
 
                 🔄 Process Flow
+
+                
                 Sensor Collects Data
                         ↓
                 Server Receives Data
