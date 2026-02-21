@@ -12,14 +12,14 @@ Technologies used are :
 
 
 
-Nreif :
+Brief :
 
 1.IoT systems are often targeted by hackers who alter or inject malicious data.
 2.Traditional databases cannot guarantee tamper-proof security.
 3.By storing data hashes on blockchain, every record becomes immutable and verifiable.
 4.If a hacker changes the database, the blockchain detects a mismatch.
 5.A notification system alerts the user/admin instantly about the unauthorized change.
-6.This ensures data integrity, trust, and real-time security in IoT ecosystems.
+6.This ensures data integrity, trust, and real-time security in IoT ecosystems .
 
 
 USP of the proposed solution :
