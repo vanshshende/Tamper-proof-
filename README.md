@@ -3,6 +3,11 @@
 <---  IoT systems are vulnerable to hacker attacks that alter data, requiring a blockchain‑based solution to ensure integrity and detect tampering instantly. --- >
 
 
+## Video discription of the topic:
+
+<video controls src="WhatsApp Video 2026-02-21 at 5.43.39 PM.mp4" title="Title"></video>
+
+
 ## Technologies used are : 
 
     1.Go(golang) – Backend logic for verification, hash generation, and secure communication between IoT devices and blockchain.
