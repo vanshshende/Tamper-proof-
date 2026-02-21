@@ -3,7 +3,7 @@ import hashlib, json, time, os, random
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Secure Sentinel", layout="wide")
+st.set_page_config(page_title="Secure Sentinel", layout="wide")    
 
 DB_FILE="logs.json"
 
