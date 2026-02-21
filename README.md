@@ -31,6 +31,7 @@
     3.IoT Sensor Simulation – Virtual environment used to simulate real hardware devices and test security scenarios.
     4.Cryptographic Hashing – Ensures data integrity by generating unique digital fingerprints.
     5.API Communication Layer – Enables secure data exchange between IoT devices, gateway, and blockchain network.
+    6.Stremlit,python-for frontend
 
 
 ## Setup Step:
