@@ -12,7 +12,7 @@ Technologies used are :
 
 
 
-Nreif :
+Brief :
 
 1.IoT systems are often targeted by hackers who alter or inject malicious data.
 2.Traditional databases cannot guarantee tamper-proof security.
