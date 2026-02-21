@@ -58,13 +58,26 @@ Process ﬂow diagram or Use-case diagram
                     Alert + Timestamp     Data Valid
                     Mark Block Corrupt    Continue System
 
-Research & References
 
-Real Cyberattack Examples Involving Industrial/Control Systems
+**Use Case**
 
-1. Stuxnet Industrial Cyber‑Attack
+- Smart factories
+- Healthcare IoT
+- Smart homes
+- Industrial control systems
+- Critical infrastructure
 
+**Research & References**
+
+## 🚨 Real-World Attacks That Inspired This Project
+
+1. **Stuxnet Industrial Cyber‑Attack**
     A highly sophisticated worm targeting industrial control systems (SCADA/PLC) used in Iranian nuclear facilities. It altered the sensor/PLC control logic and hid the real physical state from operators so the machines behaved dangerously while reporting normal values
+
+**2016 – Shamoon (Shamoon Variant) Attacks**
+A destructive malware campaign hit Middle-East energy and infrastructure networks, wiping thousands of systems and disrupting operations. It showed how critical infrastructure can be crippled without strong integrity and monitoring mechanisms.
+
+
 
 
 
