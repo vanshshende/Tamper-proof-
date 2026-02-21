@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <title>IoT Security Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+
+  <body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <h2>🔐 IoT Security</h2>
+      <button onclick="show('dashboard')">Dashboard</button>
+      <button onclick="show('devices')">Devices</button>
+      <button onclick="show('alerts')">Alerts</button>
+    </div>
+
+    <!-- Content -->
+    <div class="content">
+      <!-- DASHBOARD -->
+      <div id="dashboard" class="section active">
+        <h1>Dashboard</h1>
+
+        <div class="cards">
+          <div class="card">
+            <h3>Devices</h3>
+            <h2 id="deviceCount">10</h2>
+          </div>
+
+          <div class="card">
+            <h3>Blocks</h3>
+            <h2 id="blockCount">500</h2>
+          </div>
+
+          <div class="card">
+            <h3>Tamper Alerts</h3>
+            <h2 id="alertCount" class="alert">0</h2>
+          </div>
+
+          <div class="card">
+            <h3>Status</h3>
+            <h2 id="systemStatus" class="secure">Secure</h2>
+          </div>
+        </div>
+
+        <canvas id="chart"></canvas>
+      </div>
+
+      <!-- DEVICES -->
+      <div id="devices" class="section">
+        <h1>Devices</h1>
+        <table id="deviceTable">
+          <tr>
+            <th>ID</th>
+            <th>Status</th>
+            <th>Hash</th>
+          </tr>
+        </table>
+      </div>
+
+      <!-- ALERTS -->
+      <div id="alerts" class="section">
+        <h1>Security Alerts</h1>
+        <table id="alertTable">
+          <tr>
+            <th>Time</th>
+            <th>Message</th>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
