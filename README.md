@@ -1,5 +1,5 @@
 
-## TEAM name:   CHAIN CODER
+## TEAM NAME:   CHAIN CODER
 
 # Team Member:
         1.Vansh Shende  (Team Leader )
