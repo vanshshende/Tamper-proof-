@@ -1,4 +1,12 @@
 
+## TEAM NAME:   CHAIN CODER
+
+# Team Member:
+        1.Vansh Shende  (Team Leader )
+        2.Tanush Bobade
+        3.Yash Awari
+        4.Shreyanshu Shendre
+        5.Pranay Chikankar
 
 <---  IoT systems are vulnerable to hacker attacks that alter data, requiring a blockchain‑based solution to ensure integrity and detect tampering instantly. --- >
 
@@ -97,12 +105,3 @@ Tamper-proof/
 A destructive malware campaign hit Middle-East energy and infrastructure networks, wiping thousands of systems and disrupting operations. It showed how critical infrastructure can be crippled without strong integrity and monitoring mechanisms.
 
 
-
-## TEAM name:   CHAIN CODER
-
-# Team Member:
-        1.Vansh Shende  (Team Leader )
-        2.Tanush Bobade
-        3.Yash Awari
-        4.Shreyanshu Shendre
-        5.Pranay Chikankar
